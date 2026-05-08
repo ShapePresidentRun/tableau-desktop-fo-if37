@@ -1,4 +1,4 @@
-
+Enhance Tableau Desktop for macOS with Tableau Desktop for macOS instant Addon: automated-reports & formula-editor, the #1 addon. Includes automated-reports and formula-editor for
 
 
 
